@@ -1,0 +1,33 @@
+h1, h2 {
+    color: white;
+}
+
+body {
+    background-color:black;
+    padding: 40px;
+}
+
+p {
+    font-size: 30px;
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+.intro {
+    font-weight: bold;
+}
+
+div {
+    border: 1px solid white;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    gap: 20px;
+
+    
+}
